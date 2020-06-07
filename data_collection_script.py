@@ -21,18 +21,18 @@ location_list = [
     ['Maharashtra',195],
     ['Manipur',52],
     ['Meghalaya',53],
-    # ['Mizoram',51],
-    # ['Nagaland',43],
-    # ['Odisha',138],
-    # ['Punjab',79],
-    # ['Rajasthan',205],
-    # ['Sikkim',30],
-    # ['Tamil Nadu',127],
-    # ['Telangana',117],
-    # ['Tripura',36],
-    # ['Uttarakhand',81],
-    # ['Uttar Pradesh',173],
-    # ['West Bengal',104]
+    ['Mizoram',51],
+    ['Nagaland',43],
+    ['Odisha',138],
+    ['Punjab',79],
+    ['Rajasthan',205],
+    ['Sikkim',30],
+    ['Tamil Nadu',127],
+    ['Telangana',117],
+    ['Tripura',36],
+    ['Uttarakhand',81],
+    ['Uttar Pradesh',173],
+    ['West Bengal',104]
 ]
 
 location_list = [(location + ', India', within) for location, within in location_list]
